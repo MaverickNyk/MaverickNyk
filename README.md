@@ -4,13 +4,17 @@ I am Nikhil a highly motivated software Engineer with 5 years of experience as a
 Currently working at a telecom company in India.
 
 - 🔭 I’m currently working on Ciena Domain controller product responsible for managing networks.
-- 🌱 I’m currently learning Python and Elastic stack.
+- 🌱 I’m currently learning AWS and Elastic stack.
 - 👯 I’m looking to collaborate on Backend Development and distributed architectures.
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Software development/architectures, Spanish, Latin culture.
 - 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-0b3795168/)
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I lost on the streets of a new city with no money and a discharged phone.
+- ⚡ Fun fact: I was lost on the streets of a new city with no money and a discharged phone.
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick9122&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick9122&theme=tokyonight)
 
 
 <!--
