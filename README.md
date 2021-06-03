@@ -13,8 +13,8 @@ Currently working at a telecom company in India.
 - ⚡ Fun fact: I was lost on the streets of a new city with no money and a discharged phone.
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maverick9122&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverick9122&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaverickNyk&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickNyk&theme=tokyonight)
 
 
 <!--
