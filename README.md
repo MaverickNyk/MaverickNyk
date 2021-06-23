@@ -7,7 +7,7 @@ Currently working at a telecom company in India.
 - 🌱 I’m currently learning AWS and Elastic stack.
 - 👯 I’m looking to collaborate on Backend Development and distributed architectures.
 - 🤔 I’m looking for help with AWS
-- 💬 Ask me about Software development/architectures, Spanish, Latin culture.
+- 💬 Ask me about Software development, Distributed System design, Spanish, Latin culture.
 - 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-0b3795168/)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I was lost on the streets of a new city with no money and a discharged phone.
