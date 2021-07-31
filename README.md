@@ -17,7 +17,7 @@ Excellent background in continuous delivery, product development life cycle (Agi
 I am a passionate open-source contributor, I always try to learn and contribute through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/maverickNyk/maverickNyk/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/maverickNyk/maverickNyk/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any software development work? do reach, [email](mailto:nikhilkumar11896@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
