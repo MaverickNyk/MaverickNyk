@@ -1,33 +1,58 @@
-### Hi there 👋
-
-I am Nikhil a highly motivated software Engineer with 5 years of experience as a Backend Software Developer in various technologies.
-Currently working at a telecom company in India.
-
-- 🔭 I’m currently working on Ciena Domain controller product responsible for managing networks.
-- 🌱 I’m currently learning AWS and Elastic stack.
-- 👯 I’m looking to collaborate on Backend Development and distributed architectures.
-- 🤔 I’m looking for help with AWS
-- 💬 Ask me about Software development, Distributed System design, Spanish, Latin culture.
-- 📫 How to reach me: I'm on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-0b3795168/)
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: I was lost on the streets of a new city with no money and a discharged phone.
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/MaverickNyk">
+  <img align="left" alt="Nikhil Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-0b3795168/">
+  <img align="left" alt="Nikhil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MaverickNyk&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickNyk&theme=tokyonight)
+![](https://visitor-badge.glitch.me/badge?page_id=maverickNyk.maverickNyk)
+
+<br />
+
+hi, i'm [Nikhil Kumar](https://www.linkedin.com/in/nikhil-kumar-0b3795168/), a highly motivated Software engineer with 5 years of experience as a Backend Software Developer in various technologies. Extensive Core and Advanced Java development & Integration experience using Object Oriented principles and Microservice Architecture.
+Excellent background in continuous delivery, product development life cycle (Agile Methodology) including stories management for sprints and retrospective meetings.
+
+I am a passionate open-source contributor, I always try to learn and contribute through open-source.
 
 
-<!--
-**maverick9122/maverick9122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img align="right" alt="GIF" src="https://github.com/maverickNyk/maverickNyk/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any software development work? do reach, [email](mailto:nikhilkumar11896@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
-Here are some ideas to get you started:
+**languages and tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+```text
+Writing code            27 hrs 23 mins  ████████████████████████  93.37 % 
+HLD Discussion          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░  03.23 % 
+Analyzing defects :(    22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░  02.21 % 
+```
+<!--END_SECTION:waka-->
+
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  100 followers on github           
+🌸  Write an article everyday on Medium          
+✅  Contributed to open-source projects           
+⏳   Fitness Goals
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MaverickNyk&show_icons=true&theme=gotham" alt="Nikhil Kumar" />
+
+
+
