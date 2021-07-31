@@ -19,7 +19,7 @@ I am a passionate open-source contributor, I always try to learn and contribute 
 
   <img align="right" alt="GIF" src="https://github.com/maverickNyk/maverickNyk/blob/main/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any software development work? do reach, [email](mailto:nikhilkumar11896@gmail.com) :)
+- 💼 any software development work? do reach, [email](mailto:nikhilkumar11896@gmail.com):)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
