@@ -34,7 +34,7 @@ I am a passionate open-source contributor, I always try to learn and contribute 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Writing code            27 hrs 23 mins  ████████████████████████  93.37 % 
+Writing code            28 hrs 23 mins  ████████████████████████  93.37 % 
 HLD Discussion          46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░  03.23 % 
 Analyzing defects :(    22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░  02.21 % 
 ```
