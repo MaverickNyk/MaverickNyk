@@ -11,7 +11,7 @@
 
 <br />
 
-hi, i'm [Nikhil Kumar](https://www.linkedin.com/in/nikhil-kumar-0b3795168/), a highly motivated Software engineer with 5 years of experience as a Backend Software Developer in various technologies. Extensive Core and Advanced Java development & Integration experience using Object Oriented principles and Microservice Architecture.
+hi, I'm [Nikhil](https://www.linkedin.com/in/nikhil-kumar-0b3795168/), a highly motivated Software engineer with 5 years of experience as a Backend Software Developer in various technologies. Extensive Core and Advanced Java development & Integration experience using Object Oriented principles and Microservice Architecture.
 Excellent background in continuous delivery, product development life cycle (Agile Methodology) including stories management for sprints and retrospective meetings.
 
 I am a passionate open-source contributor, I always try to learn and contribute through open-source.
