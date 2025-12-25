@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/MaverickNyk">
-  <img align="left" alt="Nikhil Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://x/MaverickNyk">
+  <img align="left" alt="Nikhil Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/x.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nikhil-kumar-0b3795168/">
   <img align="left" alt="Nikhil's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
